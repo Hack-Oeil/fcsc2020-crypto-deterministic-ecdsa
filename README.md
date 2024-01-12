@@ -10,6 +10,20 @@ Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
 Origine : [Deterministic ECDSA](https://hackropole.fr/fr/challenges/crypto/fcsc2020-crypto-deterministic-ecdsa/)
 
 
+## Connectez vous en WEBSSH
+> http://localhost
+
+#### tentez 
+> nc deterministic_ecdsa.cyrhades.com:4000
+
+
+-----------
+
+## Ou directement avec netcat
+> nc localhost:4000
+
+-----------
+
 -----------
 
 ## Installation manuel
