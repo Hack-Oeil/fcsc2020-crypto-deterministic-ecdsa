@@ -14,7 +14,7 @@ Origine : [Deterministic ECDSA](https://hackropole.fr/fr/challenges/crypto/fcsc2
 > http://localhost
 
 #### tentez 
-> nc deterministic_ecdsa.cyrhades.com:4000
+> nc deterministic_ecdsa.cyrhades.fr:4000
 
 
 -----------
